@@ -1,4 +1,8 @@
+<div align="center">
+
 # Holberton web front end
+
+</div>
 
 ---
 
@@ -15,9 +19,12 @@ Second year
 
 **[Developer tools](README.md#developer-tools)**
 
-</div>
+---
 
 ![learn html](./asset/img/learn%20html.jpeg)
+
+</div>
+
 
 ---
 
@@ -114,6 +121,10 @@ In this project, you're going to create a website following the design and graph
 ---
 
 ## Developer tools
+
+Analyze a website and learn to use the dev tools to gather key information and make modifications or improvements.
+
+### Tasks
 
 0. Responsive device
 1. Change the background color
