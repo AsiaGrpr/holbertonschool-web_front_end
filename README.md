@@ -17,7 +17,7 @@ First year
 
 Second year
 
-**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss)**
+**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox)**
 
 ---
 
