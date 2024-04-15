@@ -46,7 +46,7 @@ At the end of this project, you are expected to be able to explain to anyone, **
 
 Download the images linked in the [CSS Advanced]() and place them into an images directory at the root of the project.
 
-If that link doesn’t work, use [this one](images.zip)
+If that link doesn’t work, use [this one](images.zip) and download raw file...
 
 <details>
 <summary>HTML starter file</summary>
