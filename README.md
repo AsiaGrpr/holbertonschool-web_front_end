@@ -17,7 +17,7 @@ First year
 
 Second year
 
-**[Developer tools](README.md#developer-tools)**
+**[Developer tools](README.md#developer-tools) - [Sass & Scss](README.md#sass--scss)**
 
 ---
 
