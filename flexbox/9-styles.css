@@ -663,10 +663,9 @@ ul.row {
     background: var(--color-primary);
     text-decoration: none;
     transition-duration: 0.3s;
-    transition;
-    color,
-    background-color;
+    transition-property: color, background-color;
 }
+
 
 /* Card TESTIMONIAL
       ============================= */
