@@ -17,7 +17,7 @@ First year
 
 Second year
 
-**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox)**
+**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms)**
 
 ---
 
@@ -203,3 +203,17 @@ How to use flexboxes in an efficient way.
 12. The structure of the main article
 13. The meta list inside the aside section
 14. Add the share social icons
+
+## Forms
+
+Learn to build different forms with HTML5.
+
+### Tasks
+
+0. basic comment structure
+1. more comment basic structure
+2. create labels and input container
+3. create the inputs
+4. add help messages
+5. add pure HTML / CSS error handling
+6. add the search form
