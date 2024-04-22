@@ -17,7 +17,7 @@ First year
 
 Second year
 
-**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms)**
+**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms) - [Responsive design](README.md#responsive-design) - [Accessibility](README.md#accessibility)**
 
 ---
 
@@ -217,3 +217,37 @@ Learn to build different forms with HTML5.
 4. add help messages
 5. add pure HTML / CSS error handling
 6. add the search form
+
+## Responsive design
+
+### Tasks
+
+0. Fix the hero banner
+1. Make the container flexible
+2. Fix layout issues
+3. Generate images with responsive breakpoints
+4. Create the mobile icon and hide the menu
+5. Hamburger!
+6. Add the behavior based on menu-btn state
+7. Make the font size responsive
+8. Improve the "Works" section
+9. Improve the "Footer" section
+10. Fix the top header background
+
+## Accessibility
+
+### Tasks
+
+0. make the "works" card focus visible
+1. add the skip-links
+2. Elements must have sufficient color contrast
+3. Documents must have < title > element to aid in navigation
+4. < html > element must have a lang attribute
+5. Images must have alternate text
+6. Form elements must have labels
+7. Links must have discernible text
+8. Zooming and scaling must not be disabled
+9. Heading levels should only increase by one and all page content must be contained by landmarks
+10. Document must have one main landmark
+11. More than 2 elements become list
+
