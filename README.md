@@ -17,7 +17,7 @@ First year
 
 Second year
 
-**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms) - [Responsive design](README.md#responsive-design) - [Accessibility](README.md#accessibility)**
+**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms) - [Responsive design](README.md#responsive-design) - [Accessibility](README.md#accessibility) - [Bootstrap](README.md#bootstrap)**
 
 ---
 
@@ -251,3 +251,14 @@ Learn to build different forms with HTML5.
 10. Document must have one main landmark
 11. More than 2 elements become list
 
+## Bootstrap
+
+### Tasks
+
+0. Reboot styling
+1. Blocks
+2. Table of chemical elements
+3. Cards
+4. Bob Dylan
+5. Show/Hide - screen size
+6. Overwrite CSS
