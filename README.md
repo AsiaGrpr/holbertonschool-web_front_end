@@ -17,7 +17,7 @@ First year
 
 Second year
 
-**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms) - [Responsive design](README.md#responsive-design) - [Accessibility](README.md#accessibility) - [Bootstrap](README.md#bootstrap)**
+**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms) - [Responsive design](README.md#responsive-design) - [Accessibility](README.md#accessibility) - [Bootstrap](README.md#bootstrap) - [Javascript advanced](README.md#javascript-advanced)**
 
 ---
 
