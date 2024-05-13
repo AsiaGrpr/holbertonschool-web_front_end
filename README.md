@@ -17,7 +17,7 @@ First year
 
 Second year
 
-**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms) - [Responsive design](README.md#responsive-design) - [Accessibility](README.md#accessibility) - [Bootstrap](README.md#bootstrap) - [Javascript advanced](README.md#javascript-advanced)**
+**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms) - [Responsive design](README.md#responsive-design) - [Accessibility](README.md#accessibility) - [Bootstrap](README.md#bootstrap) - [Javascript advanced](README.md#javascript-advanced) - [jQuery advanced](README.md#jquery-advanced)**
 
 ---
 
@@ -282,3 +282,21 @@ Learn to build different forms with HTML5.
 12. Binding
 13. Binding + Closure
 14. Simple callback
+
+## jQuery advanced
+
+### Tasks
+
+0. Setup your dev environment
+1. Creating a DOM element
+2. Creating multiple DOM elements at once
+3. Chain DOM elements
+4. HTML function
+5. Click attribute and remove function
+6. Val, before, and prepend functions
+7. Query - Setup your dev environment
+8. Pagination
+9. Wrap/unwrap
+10. Another Get API
+11. Post query
+12. Delete query
