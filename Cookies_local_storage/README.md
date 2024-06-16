@@ -12,10 +12,10 @@
 
 Read or watch:
 
- - [Cookies and Javascript]([link](https://www.w3schools.com/js/js_cookies.asp))
- - [HTTP Cookies]([link](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies))
- - [js-cookie]([link](https://github.com/js-cookie/js-cookie))
- - [Web storage]([link](https://www.w3schools.com/html/html5_webstorage.asp))
+ - [Cookies and Javascript](https://www.w3schools.com/js/js_cookies.asp)
+ - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+ - [js-cookie](https://github.com/js-cookie/js-cookie)
+ - [Web storage](https://www.w3schools.com/html/html5_webstorage.asp)
 
 
 ## Learning Objectives
