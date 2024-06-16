@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Storage</title>
+  </head>
+  <body>
+    <h1>Login to website</h1>
+    <form>
+      <input type="text" id="firstname" name="firstname" />
+      <input type="text" id="email" name="email" />
+    </form>
+    <button id="login">Login</button>
+    <h2>Show Cookies</h2>
+    <p id="cookies"></p>
+    <button id="show">Show Cookies</button>
+    <script>
+      document.getElementById('login').addEventListener('click', setCookie);
+      document.getElementById('show').addEventListener('click', showCookies);
+
+      function setCookie() {
+          var date = new Date();
+          date.setTime(date.getTime() + (10 * 24 * 60 * 60 * 1000));
+          var expires = "expires=" + date.toUTCString();
+          let cookieValueName = document.getElementById('firstname').value;
+          document.cookie = `firstname=${cookieValueName}; expires=${expires}; path=/`;
+          let cookieValueMail = document.getElementById('email').value;
+          document.cookie = `email=${cookieValueMail}; expires=${expires}; path=/`;
+      }
+
+      function showCookies() {
+          console.log(document.cookie);
+          let cookieArray = document.cookie.split(';');
+          let cookieOutput = '<p>';
+          cookieOutput += `Email: ${getCookies("email")}`;
+          cookieOutput += " - "
+          cookieOutput += `Firstname: ${getCookies("firstname")}`;
+          cookieOutput += '</p>';
+          document.getElementById('cookies').innerHTML = cookieOutput;
+      }
+
+      function getCookies(name){
+        let cookieArray = document.cookie.split(';');
+        let cookieValue = '';
+        cookieArray.forEach(cookie => {
+          let cookieKeyVal = cookie.split('=');
+          if(cookieKeyVal[0].trim() == name){
+            cookieValue = cookieKeyVal[1];
+          }
+        });
+        return cookieValue;
+      }
+    </script>
+  </body>
