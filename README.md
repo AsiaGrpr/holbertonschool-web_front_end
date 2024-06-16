@@ -17,7 +17,8 @@ First year
 
 Second year
 
-**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms) - [Responsive design](README.md#responsive-design) - [Accessibility](README.md#accessibility) - [Bootstrap](README.md#bootstrap) - [Javascript advanced](README.md#javascript-advanced) - [jQuery advanced](README.md#jquery-advanced)**
+**[Developer tools](README.md#developer-tools) - [Sass&Scss](README.md#sass--scss) - [Flexbox](README.md#flexbox) - [Forms](README.md#forms) - [Responsive design](README.md#responsive-design) - [Accessibility](README.md#accessibility) - [Bootstrap](README.md#bootstrap) - [Javascript advanced](README.md#javascript-advanced) - [jQuery advanced](README.md#jquery-advanced) - [Cookies local storage
+]()**
 
 ---
 
@@ -300,3 +301,16 @@ Learn to build different forms with HTML5.
 10. Another Get API
 11. Post query
 12. Delete query
+
+## Cookies local storage
+
+### Tasks
+
+0. Create basic cookie
+1. Create cookie with expiration date and specific path
+2. Read cookie
+3. Delete cookie and mini application
+4. Use js-cookie
+5. Local storage
+6. Session storage
+7. Advanced use of web storage
